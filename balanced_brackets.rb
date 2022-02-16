@@ -1,7 +1,5 @@
 require 'byebug'
 
-
-
 #
 # Complete the 'isBalanced' function below.
 #
